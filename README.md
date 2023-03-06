@@ -29,11 +29,8 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I’m a Master's student and an experienced Software Engineer, contributing to frontend and backend for building web applications.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
-- 🔭 I’m currently working on:
-  * Developing a PaaS application on AWS which recognize the face from a video.
+  - I’m currently working on:
+    * Developing a PaaS application on AWS which recognize the face from a video.
 - 🌱 I’m currently learning:
   * Clould Computing 
   * Software Agility
@@ -41,6 +38,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🐟 I started coding since 2016 as a Software Engineer at Cognizant, focused on API and Integration.
   * 🌐 Loved building things for the Web
   * 📅 Fell in love with Scrum
+  
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subham-kumar-7bb5ba111/)
 
