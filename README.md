@@ -37,6 +37,10 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=skuma251&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi There! I'm Subham Kumar
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
     - 🔭 I’m currently working on:
       * Developing a PaaS application on AWS which recognize the face from a video.
     - 🌱 I’m currently learning:
@@ -46,9 +50,6 @@ Here are some ideas to get you started:
     - 🐟 I started coding since 2013 as a Software Engineering major at RIT, focused on Software Usability.
       * 🌐 Loved building things for the Web
       * 📅 Fell in love with Scrum
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
