@@ -3,8 +3,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on:
+  * Developing a PaaS application on AWS which recognize the face from a video.
+- 🌱 I’m currently learning:
+  * Clould Computing 
+  * Software Agility
+  * Prolog
+- 🐟 I started coding since 2013 as a Software Engineering major at RIT, focused on Software Usability.
+  * 🌐 Loved building things for the Web
+  * 📅 Fell in love with Scrum
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -30,6 +37,15 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=skuma251&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi There! I'm Subham Kumar
+    - 🔭 I’m currently working on:
+      * Developing a PaaS application on AWS which recognize the face from a video.
+    - 🌱 I’m currently learning:
+      * Clould Computing 
+      * Software Agility
+      * Prolog
+    - 🐟 I started coding since 2013 as a Software Engineering major at RIT, focused on Software Usability.
+      * 🌐 Loved building things for the Web
+      * 📅 Fell in love with Scrum
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
