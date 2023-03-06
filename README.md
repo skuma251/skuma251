@@ -14,20 +14,10 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=skuma251&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi There! I'm Subham Kumar. Computer Software Engineering graduate at Arizona State University.
+    Hi There! I'm Subham Kumar.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
-- 🔭 I’m currently working on:
-  * Developing a PaaS application on AWS which recognize the face from a video.
-- 🌱 I’m currently learning:
-  * Clould Computing 
-  * Software Agility
-  * Prolog
-- 🐟 I started coding since 2016 as a Software Engineer at Cognizant, focused on API and Integration.
-  * 🌐 Loved building things for the Web
-  * 📅 Fell in love with Scrum
   
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -40,9 +30,17 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m a Master's student and an experienced Software Engineer, contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- 🔭 I’m currently working on:
+  * Developing a PaaS application on AWS which recognize the face from a video.
+- 🌱 I’m currently learning:
+  * Clould Computing 
+  * Software Agility
+  * Prolog
+- 🐟 I started coding since 2016 as a Software Engineer at Cognizant, focused on API and Integration.
+  * 🌐 Loved building things for the Web
+  * 📅 Fell in love with Scrum
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subham-kumar-7bb5ba111/)
 
