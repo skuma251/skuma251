@@ -20,14 +20,14 @@
 </div>
 
 - 🔭 I’m currently working on:
- - Developing a PaaS application on AWS which recognize the face from a video.
+  * Developing a PaaS application on AWS which recognize the face from a video.
 - 🌱 I’m currently learning:
- - Clould Computing 
- - Software Agility
- - Prolog
+ * Clould Computing 
+ * Software Agility
+ * Prolog
 - 🐟 I started coding since 2016 as a Software Engineer at Cognizant, focused on API and Integration.
- - 🌐 Loved building things for the Web
- - 📅 Fell in love with Scrum
+ * 🌐 Loved building things for the Web
+ * 📅 Fell in love with Scrum
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
