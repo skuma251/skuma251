@@ -35,7 +35,7 @@ I am a Software Developer and crafting digital experiences through code is my fo
   * 🌐 Loved building things for the Web
   * 📅 Fell in love with Scrum
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subham-kumar-7bb5ba111/)
+- 📫  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subham-kumar-7bb5ba111/)
 
 
 ---
