@@ -23,7 +23,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m a Master's student and an experienced Software Engineer, contributing to frontend and backend for building web applications.
   - I’m currently working on:
