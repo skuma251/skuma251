@@ -74,7 +74,6 @@ I am a Software Developer crafting digital experiences through code.
 ---
 
 ### 🔥 My Stats
-### 🔥 My Stats
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=skuma251&theme=git-dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skuma251&layout=compact&theme=git-dark" alt="Top Languages" />
